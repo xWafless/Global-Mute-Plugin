@@ -1,0 +1,9 @@
+name: GlobalMute
+version: ${project.version}
+main: me.xwafless.globalmute.GlobalMute
+authors: [ xWafless ]
+description: Globally mute your server
+commands:
+  globalmute:
+    aliases: [servermute]
+    description: Toggle global mute
